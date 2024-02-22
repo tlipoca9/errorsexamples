@@ -1,0 +1,4 @@
+github.com/fioepq9/errors v0.0.0-20240203065857-94d7437871e5 h1:uuDpHi/tJK2AmG/xElRz/SCBj5gHmiDg/GNIM/jplmc=
+github.com/fioepq9/errors v0.0.0-20240203065857-94d7437871e5/go.mod h1:szmbJKR8PkT6WC0n/BTYqjFXB5CSmYYjz8PHK4X3QRc=
+github.com/pkg/errors v0.9.1 h1:FEBLx1zS214owpjy7qsBeixbURkuhQAwrK5UwLGTwt4=
+github.com/pkg/errors v0.9.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
